@@ -1,12 +1,7 @@
-## Hi there 👋
+# 關於我們
 
-<!--
+# 基本資訊
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# API或套件
+- [RoomDataFetcher](https://github.com/Dyu5th-Dorm/RoomDataFetcher) - 開發完成(測試階段)
+- [DormDBUpdater](https://github.com/Dyu5th-Dorm/DormDBUpdater) - 開發完成(測試階段) 
